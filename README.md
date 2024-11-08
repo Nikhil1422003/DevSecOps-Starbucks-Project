@@ -222,7 +222,7 @@ pipeline {
 
 
 
-**If any error occurs check the installations and install latest versions** 
+**If any error occurs check the installations and install latest Versions** 
 
 
 - If you check the docker hub after building pipeline an image has been available in the docker hub like the image shown below
